@@ -1,2 +1,13 @@
 # Relativistic-Hydrodynamics
-Code to solve Relativistic Hydrodynamics models.
+Julia Code to solve Relativistic Hydrodynamics models.
+
+-> Equilibrium Hydrodynamics 
+
+
+
+
+
+
+Auxiliary Codes
+
+Custom RK4 Implementation.
